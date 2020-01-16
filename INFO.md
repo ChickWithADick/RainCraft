@@ -36,7 +36,7 @@ Rainmeter Modded MC pack
 * Just Enough Items (JEI)	
 * Large Ore Deposits	
 * Mantle	
-* Mekanism	bradyaidanc
+* Mekanism
 * Mekanism Generators	
 * Mekanism Tools
 * MekanismOres
