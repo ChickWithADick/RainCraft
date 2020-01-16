@@ -64,37 +64,26 @@ Rainmeter Modded MC pack
 
 ### 1/16/20 Revision
 
-* > Added ExtraUtilities 
-
-* > Removed Superores
+* Added ExtraUtilities 
+* Removed Superores
 
 ### 1/15/20 Revision
 
-Added: 
+#### Added: 
 
-Clumps - Clumps XP orbs to reduce lag
+* Clumps
+* Contruct's armory 
+* Soul Shards Respawn 
+* Storage Drawers 
+* Phospor 
+* Chisel & bits 
 
-Contruct's armory - Tinker's armor extenstion
+#### Removed: 
 
-Soul Shards Respawn - Proper spawner mod
+* Ore Multiplier
+* Factions
+* Fast Furnace (iron furnace is installed)
+* Spawner Craft
 
-Storage Drawers - store the things
-
-Phospor - lighting engine lag improvements
-
-Chisel & bits - m0re chisel things
-
-Removed: 
-
-Ore Multiplier
-
-Factions
-
-Fast Furnace (iron furnace is installed)
-
-Spawner Craft
-
-Updated:
-
-Tinker's Construct
-
+#### Updated:
+* Tinker's Construct
