@@ -1,4 +1,4 @@
-![banner](https://imgur.com/ZVcaH0G)
+! 
 
 # RainCraft
 Rainmeter Modded MC pack
