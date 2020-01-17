@@ -1,4 +1,4 @@
-! 
+![banner](https://github.com/ChickWithADick/RainCraft/blob/master/mclogo.png)
 
 # RainCraft
 Rainmeter Modded MC pack
