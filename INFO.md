@@ -1,5 +1,8 @@
 ![banner](https://github.com/ChickWithADick/RainCraft/blob/master/mclogo.png)
 
+## Server IP
+Oldhost: 158.69.54.7:25591
+
 ## Modlist: (56 total)
 
 * Additional Structures		
