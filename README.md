@@ -3,11 +3,12 @@
 ## Server IP
 Oldhost: 158.69.54.7:25591
 
-## Modlist: (56 total)
+## Modlist: (60 total)
 
 * Additional Structures		
 * AutoRegLib	
 * Basic Nether Ores	
+* Baubles
 * Better Builder's Wands	
 * BetterNether	
 * Biomes O' Plenty	
@@ -30,6 +31,7 @@ Oldhost: 158.69.54.7:25591
 * Flux Networks	
 * ForgeEndertech	
 * GraveStone Mod	
+* Guide Api
 * Hammer (Lib) Core	
 * Inventory Tweaks	
 * Iron Backpacks	
@@ -43,17 +45,20 @@ Oldhost: 158.69.54.7:25591
 * Mekanism Generators	
 * Mekanism Tools
 * MekanismOres
+* More Overlays
 * More Slime		
 * MrCrayfish's Furniture Mod	
 * Neat	
+* open Blocks
+* Openmodslib
 * Ore Biome	
 * Ore Excavation
 * Phosphor	
 * Quark	
 * Quark Oddities
 * Quick Leaf Decay	
+* Refined Storage
 * Sky Orchards
-* Smooth Entity Light	
 * Soul Shards 
 * Spawn Temple	
 * Storage Drawers	
@@ -61,15 +66,30 @@ Oldhost: 158.69.54.7:25591
 * Tinkers Construct	
 * Uncraftable's Craftables	
 * Wolf Armor and Storage
+* woot
 * Worley's Caves
 
 ## Download:
 https://tinyurl.com/wncz4e7
 
-Latest revision: mods-1-16-20.zip
+Latest revision: mods-1-20-20.zip
 
 
 ## Changelog:
+
+### 1/20/20 Revision
+
+#### Added: 
+* Refined Storage
+* More Overlays
+* Optifine
+* OpenBlocks
+* Baubles
+* Woot
+
+#### Removed:
+* Smooth Entity Light
+* Chunk Edge Indicator 
 
 ### 1/16/20 Revision
 
