@@ -1,6 +1,7 @@
 ![banner](https://github.com/ChickWithADick/RainCraft/blob/master/mclogo.png)
 
 ## Server IP
+NewHost: 51.81.110.12:25505
 Oldhost: 158.69.54.7:25591
 
 ## Modlist: (60 total)
