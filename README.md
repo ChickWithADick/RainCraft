@@ -25,6 +25,7 @@ Oldhost: 158.69.54.7:25591
 * ConnectedTexturesMod		
 * Construct's Armory	
 * Crossroads MC	
+* Dragon Baubles
 * Ender Storage 1.8.+	
 * Essentials	
 * Extra Utilities	
@@ -66,6 +67,7 @@ Oldhost: 158.69.54.7:25591
 * Storage Drawers	
 * Terrarium	
 * Tinkers Construct	
+* Trinkets and Baubles
 * Uncraftable's Craftables	
 * Wolf Armor and Storage
 * woot
@@ -74,10 +76,15 @@ Oldhost: 158.69.54.7:25591
 ## Download:
 https://tinyurl.com/wncz4e7
 
-Latest revision: mods-1-20-20.zip
+Latest revision: mods-2-13-20.zip
 
 
 ## Changelog:
+
+### 2/13/20 Revision
+#### Added:
+* Trinkets and Baubles
+* Dragon Baubles
 
 ### 1/20/20 Revision
 
