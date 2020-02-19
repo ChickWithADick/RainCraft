@@ -1,8 +1,10 @@
 ![banner](https://github.com/ChickWithADick/RainCraft/blob/master/mclogo.png)
 
+## Now In Version 2!! 
+Check the changelog and the modlist for what's new!
+
 ## Server IP
 NewHost: 51.81.110.12:25505
-Oldhost: 158.69.54.7:25591
 
 ## Download:
 https://tinyurl.com/wncz4e7
@@ -140,47 +142,5 @@ Latest revision: mods-2-18-20.zip
 
 ## Changelog:
 
-### 2/13/20 Revision
-#### Added:
-* Trinkets and Baubles
-* Dragon Baubles
-
-### 1/20/20 Revision
-
-#### Added: 
-* Refined Storage
-* More Overlays
-* Optifine
-* OpenBlocks
-* Baubles
-* Woot
-
-#### Removed:
-* Smooth Entity Light
-* Chunk Edge Indicator 
-
-### 1/16/20 Revision
-
-* Added ExtraUtilities 
-* Removed Superores
-
-### 1/15/20 Revision
-
-#### Added: 
-
-* Clumps
-* Contruct's armory 
-* Soul Shards Respawn 
-* Storage Drawers 
-* Phospor 
-* Chisel & bits 
-
-#### Removed: 
-
-* Ore Multiplier
-* Factions
-* Fast Furnace (iron furnace is installed)
-* Spawner Craft
-
-#### Updated:
-* Tinker's Construct
+### Massive Update! 2-19-20
+I'm to lazy to list all the changes there's like 70 additions and 10 removals, a regenerated world, a better spawn, pregenerated chunks to drastically cut down on server lag, and better compatability between mods, more  what do you want from me.
