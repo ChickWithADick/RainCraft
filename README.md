@@ -7,10 +7,9 @@ Check the changelog and the modlist for what's new!
 NewHost: 51.81.110.12:25505
 
 ## Download:
-https://tinyurl.com/wncz4e7
-
-Latest revision: RainMC-3.1.zip
-Requires Forge for MC 1.12.2
+ * Latest revision: RainMC-3.1.zip
+ * https://tinyurl.com/wncz4e7
+ * Requires Forge for MC 1.12.2
 
 #### !!Important!! ####
 
