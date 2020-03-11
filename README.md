@@ -12,6 +12,9 @@ https://tinyurl.com/wncz4e7
 Latest revision: RainMC-3.1.zip
 Requires Forge for MC 1.12.2
 
+!!Important!!
+If you are experienceing lag issues, try removing the chunk-preloader mod, it doesn't have perfectly compatibility w/ optifine so removing it may fix the issue for you. The-chunk preloader mod is mainly used server side so you shouldn't be effect anything if you remove it.
+
 
 ## Modlist: (139 total)
 
