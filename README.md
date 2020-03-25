@@ -7,7 +7,7 @@ Check the changelog and the modlist for what's new!
 NewHost: 51.81.110.12:25505
 
 ## Download:
- * Latest revision: RainMC-3.1.zip
+ * Latest revision: RainMC-3.2.zip
  * https://tinyurl.com/wncz4e7
  * Requires Forge for MC 1.12.2
 
@@ -16,7 +16,7 @@ NewHost: 51.81.110.12:25505
 If you are experienceing lag issues, try removing the chunk-preloader mod, it doesn't have perfectly compatibility w/ optifine so removing it may fix the issue for you. The-chunk preloader mod is mainly used server side so it shouldn't effect anything if you remove it.
 
 
-## Modlist: (37 total)
+## Modlist: (38 total)
 
  * Armory Expansion
  * AutoRegLib
