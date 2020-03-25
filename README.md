@@ -21,17 +21,18 @@ If you are experienceing lag issues, try removing the chunk-preloader mod, it do
  * Armory Expansion
  * AutoRegLib
  * Baubles    
+ * Better Builder's Wands
  * Biomes O' Plenty    
  * Bookshelf    
- * Botania    Vazkii        
+ * Botania      
  * Chicken Chunks 1.8.+        
  * Chisel    
  * Chisels & Bits    
- * Chunk Animator        
- * Chunk-Pregenerator        
+ * Chunk Animator              
  * CodeChicken Lib 1.8.+        
  * ConnectedTexturesMod
- * Construct's Armory    
+ * Construct's Armory  
+ * Efforrtless Building
  * Enchanting Plus        
  * Ender Storage 1.8.+    
  * Ender Utilities        
@@ -58,6 +59,10 @@ If you are experienceing lag issues, try removing the chunk-preloader mod, it do
  * Unlimited Chisel Works
 
 ## Changelog:
+
+## The Builders Update: 3-25-20
+* added Better Builder's wands and effortless building for ease of building
+* removed chunk pregen from client packs to hopefully solve some lag issues
 
 ### Third Revision: The Lightpack Update 3-11-20
 Completly reworked modpack made to be extra light so hopefully anyone with bad internet or a bad computer can play. Note the pack will take a bit to load to the fact intercompatbility requires forge to load the mods in stages, not because there is a lot of mods. You should be able to play comfortably with at least 6 gigs of ram. 
