@@ -7,7 +7,7 @@ Check the changelog and the modlist for what's new!
 NewHost: 51.81.110.12:25505
 
 ## Download:
- * Latest revision: RainMC-3.2.zip
+ * Latest revision: RainMC-3.3.zip
  * https://tinyurl.com/wncz4e7
  * Requires Forge for MC 1.12.2
 
@@ -16,49 +16,63 @@ NewHost: 51.81.110.12:25505
 If you are experienceing lag issues, try removing the chunk-preloader mod, it doesn't have perfectly compatibility w/ optifine so removing it may fix the issue for you. The-chunk preloader mod is mainly used server side so it shouldn't effect anything if you remove it.
 
 
-## Modlist: (38 total)
+## Modlist: (47 total)
 
  * Armory Expansion
  * AutoRegLib
- * Baubles    
+ * Baubles
  * Better Builder's Wands
- * Biomes O' Plenty    
- * Bookshelf    
- * Botania      
- * Chicken Chunks 1.8.+        
- * Chisel    
- * Chisels & Bits    
- * Chunk Animator              
- * CodeChicken Lib 1.8.+        
+ * Biomes O' Plenty
+ * Bookshelf
+ * Botania	Vazkii
+ * Chicken Chunks 1.8.+	
+ * Chisel	
+ * Chisels & Bits
+ * Chunk Edge Indicator	
+ * Chunk-Pregenerator
+ * CodeChicken Lib 1.8.+
  * ConnectedTexturesMod
- * Construct's Armory  
- * Efforrtless Building
- * Enchanting Plus        
- * Ender Storage 1.8.+    
- * Ender Utilities        
+ * Construct's Armory	
+ * Effortless Building	
+ * Enchanting Plus	
+ * Ender Storage 1.8.+
+ * Ender Utilities	
+ * FastFurnace
+ * FastWorkbench
  * Food Expansion
- * Immersive Engineering    
+ * Immersive Engineering
  * Iron Chests
  * Iron Furnaces
  * JourneyMap
- * Just Enough Items (JEI)        
- * LibraryEx    
- * Mantle    
- * NetherEx    
- * OpenBlocks    
+ * Just Enough Items (JEI)	
+ * LibraryEx	
+ * Mantle	
+ * Neat	
+ * NetherEx
+ * OpenBlocks
  * OpenModsLib
- * Ore Excavation    
- * Quark
+ * Ore Excavation
+ * Placebo
+ * Quark	
  * Quark Oddities
+ * Questionably Immersive
  * Redstone Flux
- * Ruins (Structure Spawning System)    
- * Tinker I/O    
+ * Ruins	
+ * Tinker I/O
  * Tinker's JEI
- * Tinkers Construct
- * Tinkers' Compendium (Tinkers' Defense)    
+ * Tinkers Construct	
+ * Tinkers' Compendium
  * Unlimited Chisel Works
+ * VanillaFix
+ * World Book
+ * WorldEdit
 
 ## Changelog:
+
+## The Optimization Update: 4-25-20 
+ * Heavy server optimizations + modpack optimizations
+ * Added Questionably Immersive
+ * A pretty decent if slightly jenk autobackup system is now in place, the world will get backedup every two days.
 
 ## The Builders Update: 3-25-20
 * added Better Builder's wands and effortless building for ease of building
